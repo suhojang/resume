@@ -1,5 +1,5 @@
-# Cenk Alti
-<cenk@alti.email>
+# Suho Jang
+<jsh28001@gmail.com>
 
 ## Summary
 I am a software engineer with 9 years experience in
@@ -21,10 +21,10 @@ while focusing on simplicity, testing and standards based design.
 Cloud storage service with BitTorrent support.
 
 - Designed and developed a Rest API Server: [Rain](https://github.com/cenkalti/rain)
-- Wrote a gateway for accepting NANO cryptocurreny: [Accept Nano](https://accept-nano.com/)
-- Replaced MogileFS with in-house developed filesystem: [Efes](https://github.com/putdotio/efes/)
-- Migrated codebase from Python 2 to 3
-- Helped to containerization of the application and migration to ECS
+- Designed and developed a Web Server: [Accept Nano](https://accept-nano.com/)
+- Designed and developed a Tcp Relay Server: [Efes](https://github.com/putdotio/efes/)
+- Developed a Message Queue Import Java Application: 
+- Developed a Java Application(OCR) for Extract text from image(jpg, png, tif..): 
 
 ### [Time Relic](https://twitter.com/timerelic): Co-Founder (02/2015 - 09/2015)
 Automatic time-tracking application for desktop and mobile.
